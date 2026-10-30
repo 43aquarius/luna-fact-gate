@@ -1,0 +1,4 @@
+# luna-fact-gate bundle 层：装入 profile 时自动应用（package.json dsh.bundle.patch）。
+- insert:
+    - id: luna-fact-gate
+      name: 'luna-fact-gate'

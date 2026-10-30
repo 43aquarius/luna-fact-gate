@@ -1,0 +1,9 @@
+{
+  "name": "luna-fact-gate",
+  "category": "skill",
+  "zhDesc": "回答前先验事实，防止自我美化",
+  "enDesc": "A fact-first check before polishing a plain answer into over-rendered words.",
+  "motivation": "素材里「比渲染更吓人的是事实，这条判断她自己也在践行」",
+  "skillName": "fact-gate",
+  "builtAt": "2026-10-30T21:27:12.171Z"
+}
